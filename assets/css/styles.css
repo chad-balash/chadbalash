@@ -251,6 +251,14 @@ div.parallax-mirror {
   z-index: 0 !important;
 }
 
+.separator-bg-blue {
+  background-color: #00aff0;
+}
+
+.separator-bg-yellow {
+  background-color: #ffec79;
+}
+
 
 
 /******************************
